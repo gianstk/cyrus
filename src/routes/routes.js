@@ -10,7 +10,7 @@ import TodoScreen from "./../screens/TodoScreen";
 
 const NavBar = () => {
   return (
-    <nav className="bg-green-300 flex py-3 px-6 justify-between text-white">
+    <nav className="bg-orange-300 flex py-3 px-6 justify-between text-white">
       <div className="font-bold text-3xl">React Test App</div>
 
       <div className="text-2xl">
